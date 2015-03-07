@@ -1,0 +1,1 @@
+lib -c ../lib/image.lib image.obj
